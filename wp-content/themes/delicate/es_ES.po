@@ -1,0 +1,389 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-05 16:41+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Andriy Khomenko <andreyh@zeos.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:11
+msgid "Error 404"
+msgstr "Error 404"
+
+#: 404.php:13
+msgid "It appears you've missed you're intended destination, either through a bad or outdated link, or a typo in the page you were hoping to reach."
+msgstr "Parece que ha perdido su destinación deseada, probablemente por una enlace rota."
+
+#: 404.php:14
+msgid "You can take a look through my recent posts."
+msgstr "Puedes hechar un vistazo a mis entradas recientes."
+
+#: archive.php:15
+#: author.php:39
+#: index.php:16
+#: search.php:15
+#: single.php:10
+msgid "Posted by"
+msgstr "Publicado por"
+
+#: archive.php:15
+#: author.php:39
+#: index.php:16
+#: search.php:15
+#: single.php:10
+msgid "in"
+msgstr "en"
+
+#: archive.php:15
+#: author.php:39
+#: index.php:16
+#: search.php:15
+msgid "0 Comments"
+msgstr "0 Comentarios"
+
+#: archive.php:15
+#: author.php:39
+#: index.php:16
+#: search.php:15
+msgid "1 Comments"
+msgstr "1 Comentario"
+
+#: archive.php:15
+#: author.php:39
+#: index.php:16
+#: search.php:15
+msgid "% Comments"
+msgstr "% Comentarios"
+
+#: archive.php:15
+#: author.php:39
+#: index.php:16
+#: page.php:17
+#: search.php:15
+#: single.php:10
+msgid "Edit"
+msgstr "Editar"
+
+#: archive.php:43
+#: author.php:67
+#: index.php:45
+#, php-format
+msgid "<h2 class='center'>Sorry, but there aren't any posts in the %s category yet.</h2>"
+msgstr "<h2 class='center'>Lo siento, pero todavia no hay entradas en la categoría %s.</h2>"
+
+#: archive.php:45
+#: author.php:69
+#: index.php:47
+msgid "<h2>Sorry, but there aren't any posts with this date.</h2>"
+msgstr "<h2>Lo siento, pero no hay entradas con esta fecha.</h2>"
+
+#: archive.php:48
+#: author.php:72
+#: index.php:50
+#, php-format
+msgid "<h2 class='center'>Sorry, but there aren't any posts by %s yet.</h2>"
+msgstr "<h2 class='center'>Lo siento, pero todavia no hay entradas de %s.</h2>"
+
+#: archive.php:50
+#: author.php:74
+#: index.php:52
+msgid "<h2 class='center'>No posts found.</h2>"
+msgstr "<h2 class='center'>No encontrado las entradas.</h2>"
+
+#: archives.php:12
+msgid "Archives"
+msgstr "Archivos"
+
+#: archives.php:15
+msgid "Archives by Month:"
+msgstr "Archivos por mes:"
+
+#: archives.php:21
+msgid "Archives by Subject:"
+msgstr "Archivos por tema:"
+
+#: author.php:13
+#, php-format
+msgid ""
+"\n"
+"Author Archives: %s"
+msgstr ""
+"\n"
+"Archivos de autor: %s"
+
+#: author.php:24
+#, php-format
+msgid "About %s"
+msgstr "Acerca de %s"
+
+#: comments-old.php:92
+msgid "Logged in as"
+msgstr "Logeado como"
+
+#: comments-old.php:92
+msgid "Log out of this account"
+msgstr "Salir de esta cuenta"
+
+#: comments-old.php:92
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+#: comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Esta entrada está protegida con contraseña. Pon la contraseña para ver comentarios."
+
+#: comments.php:21
+msgid "No Responses"
+msgstr "No hay respuestas"
+
+#: comments.php:21
+msgid "One Response"
+msgstr "Una respuesta"
+
+#: comments.php:21
+msgid "% Responses"
+msgstr "% Respuestas"
+
+#: comments.php:26
+#: comments.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Comentarios más antiguos"
+
+#: comments.php:27
+#: comments.php:39
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Comentarios más nuevos <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:60
+msgid "Leave a Reply"
+msgstr "Deja su comentario"
+
+#: comments.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Deja su comentario a %s"
+
+#: comments.php:62
+msgid "Cancel reply"
+msgstr "Cancelar comentario"
+
+#: comments.php:63
+msgid "Post Comment"
+msgstr "Publicar comentario"
+
+#: footer.php:8
+msgid "Copyright &copy; 2010 "
+msgstr "Copyright &copy; 2010"
+
+#: footer.php:8
+msgid "All rights reserved."
+msgstr "Todos derechos reservados"
+
+#: header.php:8
+msgid "Search Results"
+msgstr "Resultados de búsqueda"
+
+#: header.php:9
+msgid "Author Archives"
+msgstr "Archivos de autor"
+
+#: header.php:14
+#: header.php:15
+msgid "Archive"
+msgstr "Archivo"
+
+#: header.php:16
+msgid "Tag Archive"
+msgstr "Tagear archivo"
+
+#: search.php:41
+#: single.php:47
+msgid "Not Found"
+msgstr "No encontrado"
+
+#: search.php:42
+#: single.php:48
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Lo siento, pero estas buscando algo que no existe aquí."
+
+#: searchform.php:2
+#: searchform.php:3
+msgid "Search"
+msgstr "Buscar"
+
+#: single.php:23
+msgid "You can follow any responses to this entry through the"
+msgstr "Puedes seguir cualquiera respuesta a esta entrada mediante de"
+
+#: single.php:26
+msgid "You can <a href=\"#respond\">leave a response</a>, or"
+msgstr "Puedes <a href=\"#respond\">dejar comentario</a>, o"
+
+#: single.php:26
+#: single.php:29
+msgid "trackback"
+msgstr "rastrear de nuevo"
+
+#: single.php:29
+msgid "Responses are currently closed, but you can"
+msgstr "Comentarios ya están cerrados, pero puedes"
+
+#: single.php:32
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr "Puedes saltar al final y dejar un comentario."
+
+#: single.php:35
+msgid "Both comments and pings are currently closed."
+msgstr "Comentarios y pings ya están cerrados."
+
+#: sitemap.php:13
+msgid "Sitemap"
+msgstr "Mapa de web"
+
+#: sitemap.php:16
+msgid "Pages"
+msgstr "Páginas"
+
+#: sitemap.php:22
+msgid "Categories"
+msgstr "Categorías"
+
+#: sitemap.php:40
+msgid "Comments"
+msgstr "Comentarios"
+
+#: functions/admin-framework.php:175
+msgid "&laquo; First"
+msgstr "&laquo; Primero"
+
+#: functions/admin-framework.php:189
+msgid "Last &raquo;"
+msgstr "Último &raquo;"
+
+#: functions/admin-framework.php:320
+#, php-format
+msgid "View all posts under %s"
+msgstr "Ver todas las entradas en virtud de %s"
+
+#: functions/admin-menu.php:10
+msgid "Theme Options"
+msgstr "Opciones de tema "
+
+#: functions/admin-menu.php:11
+msgid "Color Options"
+msgstr "Opciones de color"
+
+#: functions/admin-menu.php:12
+msgid "More themes"
+msgstr "Más temas"
+
+#: functions/admin-menu.php:300
+#: functions/admin-menu.php:325
+msgid "Update Options"
+msgstr "Actualizar las opciones"
+
+#: functions/admin-menu.php:331
+msgid "Backup Options"
+msgstr "Opciones de copia de seguridad"
+
+#: functions/admin-menu.php:335
+msgid "Restore Color Options"
+msgstr "Restaurar opciones de color"
+
+#: functions/admin-menu.php:337
+msgid "Restore Theme Options"
+msgstr "Restaurar opciones de tema"
+
+#: functions/custom-title.php:10
+msgid "Custom Post Title"
+msgstr "Título de entrada personalizado"
+
+#: functions/custom-title.php:11
+msgid "By default, natty uses the title of your post as the contents of the <code>&lt;title&gt;</code> tag. You can override this and further extend your on-page <acronym title=\"Search Engine Optimization\">SEO</acronym> by entering your own <code>&lt;title&gt;</code> tag below."
+msgstr "Por defecto, natty utiliza el título de su entrada como contenido de etiqueta <code>&lt;title&gt;</code>. Puedes sobreescribir esto y  extender <acronym title=\"Search Engine Optimization\">SEO</acronym> de su página añadiendo su propia etiqueta <code>&lt;title&gt;</code> aquí debajo."
+
+#: functions/custom-title.php:12
+msgid "Value for <code>&lt;title&gt;</code> tag"
+msgstr "Valor para etiqueta <code>&lt;title&gt;</code>"
+
+#: functions/custom-title.php:17
+msgid "Meta Description"
+msgstr "Meta Descripción"
+
+#: functions/custom-title.php:19
+msgid "Value for <code>&lt;meta&gt;</code> description"
+msgstr "Valor para <code>&lt;meta&gt;</code> descripción"
+
+#: functions/custom-title.php:24
+msgid "Meta Keywords"
+msgstr "Meta Palabras Claves"
+
+#: functions/custom-title.php:25
+msgid "Like the <code>&lt;meta&gt;</code> description, <code>&lt;meta&gt;</code> keywords are yet another on-page <acronym title=\"Search Engine Optimization\">SEO</acronym> opportunity. Enter a few keywords that are relevant to your article."
+msgstr "Igual que <code>&lt;meta&gt;</code> descripción, <code>&lt;meta&gt;</code> palabras claves son otra posibilidad <acronym title=\"Search Engine Optimization\">SEO</acronym> para tu página. Pon varias palabras claves relevantes para tu entrada."
+
+#: functions/custom-title.php:26
+msgid "Value for <code>&lt;meta&gt;</code> keywords"
+msgstr "Valor para <code>&lt;meta&gt;</code> palabras claves"
+
+#: include/hooks.php:25
+msgid "Blue"
+msgstr "Azul"
+
+#: include/hooks.php:30
+msgid "Green"
+msgstr "Verde"
+
+#: include/hooks.php:82
+msgid "Primary Navigation"
+msgstr "Navegación principal"
+
+#: include/hooks.php:93
+msgid "Read more <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Seguir leyendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: include/hooks.php:137
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: include/settings-comments.php:32
+msgid "Pingback:"
+msgstr "Ping de nuevo:"
+
+#: include/settings-comments.php:32
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: include/widgets/feedburner.php:25
+msgid "Enter your e-mail address"
+msgstr "Pon su e-mail"
+
+#: include/widgets/feedburner.php:29
+msgid "Subscribe"
+msgstr "Suscribirse"
+
+#: include/widgets/twitter.php:24
+msgid "Follow us on Twitter"
+msgstr "Sígame en Twitter "
+
+#: include/widgets/twitter.php:55
+msgid "Account:"
+msgstr "Cuenta:"
+
+#: include/widgets/twitter.php:59
+msgid "Title:"
+msgstr "Título:"
+
+#: include/widgets/twitter.php:63
+msgid "Show:"
+msgstr "Mostrar:"
+

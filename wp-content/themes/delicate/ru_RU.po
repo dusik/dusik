@@ -1,0 +1,389 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-05 16:41+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Andriy Khomenko <andreyh@zeos.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:11
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: 404.php:13
+msgid "It appears you've missed you're intended destination, either through a bad or outdated link, or a typo in the page you were hoping to reach."
+msgstr "Похоже вы потеряли желаемый адрес, возможно из-за неправильной или устаревшей ссылки."
+
+#: 404.php:14
+msgid "You can take a look through my recent posts."
+msgstr "Вы можете просмотреть мои последние статьи."
+
+#: archive.php:15
+#: author.php:39
+#: index.php:16
+#: search.php:15
+#: single.php:10
+msgid "Posted by"
+msgstr "Опубликовано"
+
+#: archive.php:15
+#: author.php:39
+#: index.php:16
+#: search.php:15
+#: single.php:10
+msgid "in"
+msgstr "в"
+
+#: archive.php:15
+#: author.php:39
+#: index.php:16
+#: search.php:15
+msgid "0 Comments"
+msgstr "0 комментариев"
+
+#: archive.php:15
+#: author.php:39
+#: index.php:16
+#: search.php:15
+msgid "1 Comments"
+msgstr "1 комментарий"
+
+#: archive.php:15
+#: author.php:39
+#: index.php:16
+#: search.php:15
+msgid "% Comments"
+msgstr "% комментариев"
+
+#: archive.php:15
+#: author.php:39
+#: index.php:16
+#: page.php:17
+#: search.php:15
+#: single.php:10
+msgid "Edit"
+msgstr "Редактировать"
+
+#: archive.php:43
+#: author.php:67
+#: index.php:45
+#, php-format
+msgid "<h2 class='center'>Sorry, but there aren't any posts in the %s category yet.</h2>"
+msgstr "<h2 class='center'>Извините, пока еще нет статей в категории %s.</h2>"
+
+#: archive.php:45
+#: author.php:69
+#: index.php:47
+msgid "<h2>Sorry, but there aren't any posts with this date.</h2>"
+msgstr "<h2>Извините, нет статей с этой датой.</h2>"
+
+#: archive.php:48
+#: author.php:72
+#: index.php:50
+#, php-format
+msgid "<h2 class='center'>Sorry, but there aren't any posts by %s yet.</h2>"
+msgstr "<h2 class='center'>Извините, пока еще нет статей, опубликованных %s.</h2>"
+
+#: archive.php:50
+#: author.php:74
+#: index.php:52
+msgid "<h2 class='center'>No posts found.</h2>"
+msgstr "<h2 class='center'>Не найдено статей.</h2>"
+
+#: archives.php:12
+msgid "Archives"
+msgstr "Архивы"
+
+#: archives.php:15
+msgid "Archives by Month:"
+msgstr "Архивы по месяцам:"
+
+#: archives.php:21
+msgid "Archives by Subject:"
+msgstr "Архивы по теме:"
+
+#: author.php:13
+#, php-format
+msgid ""
+"\n"
+"Author Archives: %s"
+msgstr ""
+"\n"
+"Архивы автора: %s"
+
+#: author.php:24
+#, php-format
+msgid "About %s"
+msgstr "Обо  %s"
+
+#: comments-old.php:92
+msgid "Logged in as"
+msgstr "Вошел в систему как"
+
+#: comments-old.php:92
+msgid "Log out of this account"
+msgstr "Выйти из этой учетной записи"
+
+#: comments-old.php:92
+msgid "Logout"
+msgstr "Выйти из системы"
+
+#: comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Эта статья защищена паролем. Введите пароль, чтобы увидеть комментарии. "
+
+#: comments.php:21
+msgid "No Responses"
+msgstr "Нет комментариев"
+
+#: comments.php:21
+msgid "One Response"
+msgstr "Один комментарий"
+
+#: comments.php:21
+msgid "% Responses"
+msgstr "% комментариев"
+
+#: comments.php:26
+#: comments.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Следующие комментарии"
+
+#: comments.php:27
+#: comments.php:39
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Предыдущие комментарии <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:60
+msgid "Leave a Reply"
+msgstr "Оставить сообщение"
+
+#: comments.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Оставить комментарий для %s"
+
+#: comments.php:62
+msgid "Cancel reply"
+msgstr "Отменить комментарий"
+
+#: comments.php:63
+msgid "Post Comment"
+msgstr "Опубликовать комментарий"
+
+#: footer.php:8
+msgid "Copyright &copy; 2010 "
+msgstr "Copyright &copy; 2010 "
+
+#: footer.php:8
+msgid "All rights reserved."
+msgstr "Все права защищены."
+
+#: header.php:8
+msgid "Search Results"
+msgstr "Результаты поиска"
+
+#: header.php:9
+msgid "Author Archives"
+msgstr "Архивы автора"
+
+#: header.php:14
+#: header.php:15
+msgid "Archive"
+msgstr "Архив"
+
+#: header.php:16
+msgid "Tag Archive"
+msgstr "Классифицировать архив"
+
+#: search.php:41
+#: single.php:47
+msgid "Not Found"
+msgstr "Не найдено"
+
+#: search.php:42
+#: single.php:48
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Извините, но вы ищете что-то, что не находится здесь."
+
+#: searchform.php:2
+#: searchform.php:3
+msgid "Search"
+msgstr "Поиск"
+
+#: single.php:23
+msgid "You can follow any responses to this entry through the"
+msgstr "Вы можете следовать любым комментариям для этой статьи посредством "
+
+#: single.php:26
+msgid "You can <a href=\"#respond\">leave a response</a>, or"
+msgstr "Вы можете <a href=\"#respond\">оставить комментарий</a>, или"
+
+#: single.php:26
+#: single.php:29
+msgid "trackback"
+msgstr "отследить заново"
+
+#: single.php:29
+msgid "Responses are currently closed, but you can"
+msgstr "Комментарии уже закрыты, но вы можете"
+
+#: single.php:32
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr "Вы можете перейти в конец и оставить комментарий."
+
+#: single.php:35
+msgid "Both comments and pings are currently closed."
+msgstr "Комментарии и просмотр в данный момент закрыты."
+
+#: sitemap.php:13
+msgid "Sitemap"
+msgstr "Карта сайта"
+
+#: sitemap.php:16
+msgid "Pages"
+msgstr "Страницы"
+
+#: sitemap.php:22
+msgid "Categories"
+msgstr "Категории"
+
+#: sitemap.php:40
+msgid "Comments"
+msgstr "Комментарии"
+
+#: functions/admin-framework.php:175
+msgid "&laquo; First"
+msgstr "&laquo; Первый"
+
+#: functions/admin-framework.php:189
+msgid "Last &raquo;"
+msgstr "Последний &raquo;"
+
+#: functions/admin-framework.php:320
+#, php-format
+msgid "View all posts under %s"
+msgstr "Посмотреть все статьи от %s"
+
+#: functions/admin-menu.php:10
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: functions/admin-menu.php:11
+msgid "Color Options"
+msgstr "Настройки цвета"
+
+#: functions/admin-menu.php:12
+msgid "More themes"
+msgstr "Еще темы"
+
+#: functions/admin-menu.php:300
+#: functions/admin-menu.php:325
+msgid "Update Options"
+msgstr "Обновить настройки"
+
+#: functions/admin-menu.php:331
+msgid "Backup Options"
+msgstr "Создать копию настроек"
+
+#: functions/admin-menu.php:335
+msgid "Restore Color Options"
+msgstr "Востановить настройки цвета"
+
+#: functions/admin-menu.php:337
+msgid "Restore Theme Options"
+msgstr "Востановить настройки темы"
+
+#: functions/custom-title.php:10
+msgid "Custom Post Title"
+msgstr "Персонализированный заголовок статьи"
+
+#: functions/custom-title.php:11
+msgid "By default, natty uses the title of your post as the contents of the <code>&lt;title&gt;</code> tag. You can override this and further extend your on-page <acronym title=\"Search Engine Optimization\">SEO</acronym> by entering your own <code>&lt;title&gt;</code> tag below."
+msgstr "By default, natty uses the title of your post as the contents of the <code>&lt;title&gt;</code> tag. You can override this and further extend your on-page <acronym title=\"Search Engine Optimization\">SEO</acronym> by entering your own <code>&lt;title&gt;</code> tag below."
+
+#: functions/custom-title.php:12
+msgid "Value for <code>&lt;title&gt;</code> tag"
+msgstr "Значение для тэга <code>&lt;title&gt;</code>"
+
+#: functions/custom-title.php:17
+msgid "Meta Description"
+msgstr "Meta Описание"
+
+#: functions/custom-title.php:19
+msgid "Value for <code>&lt;meta&gt;</code> description"
+msgstr "Значение для <code>&lt;meta&gt;</code> описания"
+
+#: functions/custom-title.php:24
+msgid "Meta Keywords"
+msgstr "Meta Keywords"
+
+#: functions/custom-title.php:25
+msgid "Like the <code>&lt;meta&gt;</code> description, <code>&lt;meta&gt;</code> keywords are yet another on-page <acronym title=\"Search Engine Optimization\">SEO</acronym> opportunity. Enter a few keywords that are relevant to your article."
+msgstr "Like the <code>&lt;meta&gt;</code> description, <code>&lt;meta&gt;</code> keywords are yet another on-page <acronym title=\"Search Engine Optimization\">SEO</acronym> opportunity. Enter a few keywords that are relevant to your article."
+
+#: functions/custom-title.php:26
+msgid "Value for <code>&lt;meta&gt;</code> keywords"
+msgstr "Значение для <code>&lt;meta&gt;</code> keywords"
+
+#: include/hooks.php:25
+msgid "Blue"
+msgstr "Синий"
+
+#: include/hooks.php:30
+msgid "Green"
+msgstr "Зеленый"
+
+#: include/hooks.php:82
+msgid "Primary Navigation"
+msgstr "Основная навигация"
+
+#: include/hooks.php:93
+msgid "Read more <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать еще <span class=\"meta-nav\">&rarr;</span>"
+
+#: include/hooks.php:137
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: include/settings-comments.php:32
+msgid "Pingback:"
+msgstr "Смотреть заново:"
+
+#: include/settings-comments.php:32
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+#: include/widgets/feedburner.php:25
+msgid "Enter your e-mail address"
+msgstr "Введите свой e-mail"
+
+#: include/widgets/feedburner.php:29
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: include/widgets/twitter.php:24
+msgid "Follow us on Twitter"
+msgstr "Следуйте за мной в Twitter"
+
+#: include/widgets/twitter.php:55
+msgid "Account:"
+msgstr "Учетная запись:"
+
+#: include/widgets/twitter.php:59
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: include/widgets/twitter.php:63
+msgid "Show:"
+msgstr "Показать:"
+

@@ -1,0 +1,25 @@
+#media-upload tr.flbox td.field {
+text-align:center;
+}
+
+#media-upload tr.flbox{
+background-color:#F5FCFD;
+}
+
+#media-upload tr.flbox label{
+padding-right:55px;
+}
+
+#media-upload th.label {
+padding-bottom:0.5em;
+text-align:left;
+}
+
+#media-upload .help {
+font-style:italic;
+font-weight:normal;
+}
+
+table.form-table tr.flbox{
+display:none;
+}
